@@ -1,4 +1,10 @@
-D 'ncointtest': Non-cointegration test between two time series in the frequency domain, as in Souza et al (2018) Use ncointtest With STATA 19
+D 'segregsmall': Estimation of segregation indices in small-unit settings Use segregsmall With STATA 19
 D
-F ncointtest.ado
-F ncointtest.sthlp
+F db_from_indiv_level.ado
+F db_from_indiv_level_cond_indiv.ado
+F db_from_indiv_level_cond_unit.ado
+F db_from_unit_level.ado
+F db_from_unit_level_cond_unit.ado
+F lsegregsmall.mlib
+F segregsmall.ado
+F segregsmall.sthlp
