@@ -1,6 +1,8 @@
 # segregsmall
 Estimation of segregation indices in small-unit settings Use segregsmall With STATA 19
 
+https://www.youtube.com/watch?v=GqR-quBhzu8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
